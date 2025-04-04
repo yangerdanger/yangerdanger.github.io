@@ -1,0 +1,43 @@
+@import "{{ site.theme }}";
+
+/* Navigation styles */
+.site-nav {
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  margin-top: 10px;
+}
+
+.site-nav a {
+  color: #fff;
+  margin: 0 15px;
+  padding: 5px 10px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.3s ease;
+  border-radius: 3px;
+}
+
+.site-nav a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+/* Custom scrolling behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 600px) {
+  .site-nav {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .site-nav a {
+    margin: 5px 0;
+  }
+} 

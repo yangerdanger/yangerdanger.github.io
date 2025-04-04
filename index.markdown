@@ -9,7 +9,7 @@ layout: default
 
 Hello! I'm Eric Yang, and this is where I showcase my various projects and developments. Feel free to explore and discover what I've been working on.
 
-## Featured Projects
+## <span id="featured-projects">Featured Projects</span>
 
 ### 🎮 Project Name: AI Game Assistant
 *A machine learning-powered gaming companion*
@@ -39,7 +39,7 @@ This project combines my passion for gaming with artificial intelligence to crea
 
 *More projects coming soon! Check back often for updates.*
 
-### Want to Get in Touch?
+### <span id="contact">Want to Get in Touch?</span>
 
 - 📧 Email: [ericyang2727@gmail.com](mailto:ericyang2727@gmail.com)
 - 💻 GitHub: [@yangerdanger](https://github.com/yangerdanger)
