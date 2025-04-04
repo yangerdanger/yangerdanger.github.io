@@ -14,7 +14,7 @@ Hello! I'm Eric Yang, and this is where I showcase my various projects and devel
 ### 🎮 Project Name: AI Game Assistant
 *A machine learning-powered gaming companion*
 
-![AI Game Assistant Interface](/assets/images/project-example.jpg)
+![AI Game Assistant Interface](/assets/images/IMG_3197.jpg)
 *Project interface showing real-time game analysis*
 
 #### Overview
