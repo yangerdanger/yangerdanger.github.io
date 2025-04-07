@@ -5,39 +5,49 @@
 layout: default
 ---
 
-# Welcome to My Project Portfolio!
-
-Hello! I'm Eric Yang, and this is where I showcase my various projects and developments. Feel free to explore and discover what I've been working on.
-
 ## <span id="featured-projects">Featured Projects</span>
 
-### 🎮 Project Name: AI Game Assistant
-*A machine learning-powered gaming companion*
+<div class="project-section" markdown="1">
+### Rabbeat
 
-![AI Game Assistant Interface](/assets/images/IMG_3197.jpg)
-*Project interface showing real-time game analysis*
+![Rabbeat](/assets/images/rabbeat.png)
+#### Role: Software Developer, Level Design Lead
+#### Software/Tools: Intellij, Tiled, Github, Java
 
-#### Overview
-This project combines my passion for gaming with artificial intelligence to create a smart gaming assistant that helps players improve their gameplay. Built using Python and TensorFlow, it analyzes gameplay in real-time and provides actionable insights.
+Platforming rhythm game where you play as a badass bunny! Switch the flow of music between the genres of synth and jazz, solving puzzles in hazard filled levels. Save your animal friends from the clutches of Dr. Nocturne as you hop and bop to victory.
 
-#### Key Features
-- Real-time gameplay analysis using computer vision
-- Personalized performance metrics and suggestions
-- Integration with popular game titles
-- Custom dashboard for tracking progress
+[Play the Game on Itch.io](https://we8-studios.itch.io/rabbeat)
+</div>
 
-#### Technologies Used
-- Python 3.8
-- TensorFlow 2.0
-- OpenCV
-- PyTorch
-- Docker
+<div class="project-section" markdown="1">
+### Fury of the Lost Knight
 
-[View Project on GitHub](#) | [Live Demo](#) | [Documentation](#)
+![Fury of the lost knight](/assets/images/knight.jpg)
+#### Role: Software Developer, Subteam Lead
+#### Software/Tools: Unity, Github, C#
 
----
+Fury of The Lost Knight is a 2D action platformer game that combines fast-paced combat, exploration, and puzzle-solving. You will control Tyr as you slash and cast to defeat various monsters and bosses. 
+[Play the Game on Itch.io](https://dgacornell.itch.io/fury-of-the-lost-knight)
+</div>
 
-*More projects coming soon! Check back often for updates.*
+<div class="project-section" markdown="1">
+### De Bruijn Polyominoes
+
+![De Bruijn Polyominoes](/assets/images/brujin.png)
+#### Role: Undergraduate Researcher
+
+Working with Professor Daniel Condon through the polymath project, our team made discoveries into de Brujin Polyominoes, grid based shapes that contain every possible polyomino of a certain coloring. We discovered that the problem was significantly more complicated than first thought as the shapes of polyominoes may determine such factors.  
+[Read the Paper here!](https://www.arxiv.org/abs/2405.18543)
+</div>
+
+## <span id="resume">Resume</span>
+
+<div class="pdf-container" markdown="1">
+<object data="/assets/resume.pdf" type="application/pdf">
+  <p>It appears you don't have a PDF plugin for this browser. You can 
+  <a href="/assets/resume.pdf">click here to download the PDF file.</a></p>
+</object>
+</div>
 
 ### <span id="contact">Want to Get in Touch?</span>
 
@@ -46,4 +56,3 @@ This project combines my passion for gaming with artificial intelligence to crea
 
 ---
 
-*This site is constantly evolving as I add more projects and improvements. Check back often for updates!*

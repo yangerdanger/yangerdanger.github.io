@@ -9,12 +9,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     {% include head-custom.html %}
   </head>
   <body>
-    <nav class="site-nav" id="site-nav">
-      <a href="/resume" title="View my resume">Resume</a>
+    <nav class="site-nav" id="site-nav" >
+      <a href="/#resume" title="View my resume">Resume</a>
       <a href="/#featured-projects" title="View my projects">Projects</a>
       <a href="/#contact" title="Get in touch">Contact</a>
     </nav>
@@ -46,6 +46,7 @@
 
     <script>
       document.addEventListener('DOMContentLoaded', function() {
+        console.log("DOMContentLoaded");
         // JavaScript to change navigation background on scroll
         window.addEventListener('scroll', function() {
           var nav = document.getElementById('site-nav');

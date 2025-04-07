@@ -1,3 +1,6 @@
+---
+---
+
 @import "{{ site.theme }}";
 
 /* Navigation styles */
@@ -58,5 +61,69 @@ html {
   
   body {
     padding-top: 100px;
+  }
+}
+
+/* Project section styles */
+.project-section {
+  border: 2px solid #157878;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px 0;
+  background-color: #f8f8f8;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-section:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.project-section img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin: 10px 0;
+}
+
+.project-section h3 {
+  color: #157878;
+  margin-top: 0;
+}
+
+.project-section p {
+  margin-bottom: 15px;
+}
+
+/* PDF viewer styles */
+.pdf-container {
+  position: relative;
+  width: 100%;
+  height: 800px;
+  margin: 20px 0;
+  border: 2px solid #157878;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.pdf-container object {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.pdf-container object[type="application/pdf"] {
+  min-height: 100%;
+  min-width: 100%;
+}
+
+/* For Firefox */
+@-moz-document url-prefix() {
+  .pdf-container object {
+    width: 100%;
+    height: 100%;
+    transform: scale(1);
+    transform-origin: 0 0;
   }
 } 
