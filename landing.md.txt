@@ -1,3 +1,4 @@
 layout: page
 title: "Eric's Projects"
+description: "uhhhhhh"
 permalink: /landing

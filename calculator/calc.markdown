@@ -1,11 +1,11 @@
 ---
 layout: default
 title: MTG Calculators
-permalink: /mtgCalculators/
+permalink: /calculators/
+description: Calculators Perfect for Optimizing your Magic The Gathering Decks!
 ---
 
-## DanDan Probability Calculator
+## <span id="calculators">Hypergeometric Calculator</span>
 
 Under Construction!
 
-[jekyll-organization]: https://github.com/jekyll
