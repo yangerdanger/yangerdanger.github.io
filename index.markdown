@@ -16,7 +16,7 @@ layout: default
 
 Sabotage. Race. Win! In this adventurous party platformer, the jungle is your playground! Race against three of your friends in this mobile competitive platformer. Gather gems and plant traps to trip up unsuspecting rivals as you glide to victory. May the swiftest and sneakiest sugar glider steal the show!
 
-[Winner of GDIAC Judge's Choice Award]
+Winner of GDIAC Judge's Choice Award
 </div>
 
 <div class="project-section" markdown="1">
