@@ -9,6 +9,16 @@ title: Eric Yang's Project Portfolio
 ## <span id="featured-projects">Featured Projects</span>
 
 <div class="project-section" markdown="1">
+### Goodnotes Stripe Integration
+
+![Goodnotes](/assets/images/goodnotes.png)
+#### Role: Backend Developer
+#### Software/Tools: Typescript, React, Stripe, NestJS, Payload CMS, Cursor
+
+I'm currently working as a backend developer for Goodnotes, integrating Stripe into our monetization infrastructure. 
+</div>
+
+<div class="project-section" markdown="1">
 ### Sweet Sweet Betrayal
 
 ![Sweet Sweet Betrayal](/assets/images/banner.png)
@@ -33,25 +43,6 @@ Platforming rhythm game where you play as a badass bunny! Switch the flow of mus
 </div>
 
 <div class="project-section" markdown="1">
-### Fury of the Lost Knight
-
-![Fury of the lost knight](/assets/images/knight.jpg)
-#### Role: Software Developer, Subteam Lead
-#### Software/Tools: Unity, Github, C#
-
-Fury of The Lost Knight is a 2D action platformer game that combines fast-paced combat, exploration, and puzzle-solving. You will control Tyr as you slash and cast to defeat various monsters and bosses. 
-[Play the Game on Itch.io](https://dgacornell.itch.io/fury-of-the-lost-knight)
-</div>
-
-<div class="project-section" markdown="1">
-### De Bruijn Polyominoes
-
-![De Bruijn Polyominoes](/assets/images/brujin.png)
-#### Role: Undergraduate Researcher
-
-Working with Professor Daniel Condon through the polymath project, our team made discoveries into de Brujin Polyominoes, grid based shapes that contain every possible polyomino of a certain coloring. We discovered that the problem was significantly more complicated than first thought as the shapes of polyominoes may determine such factors.  
-[Read the Paper here!](https://www.arxiv.org/abs/2405.18543)
-</div>
 
 ## <span id="resume">Resume</span>
 
