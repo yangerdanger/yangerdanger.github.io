@@ -11,7 +11,7 @@ title: Eric Yang's Project Portfolio
 <div class="project-section" markdown="1">
 ### Goodnotes Stripe Integration
 
-![Goodnotes](/assets/images/goodnotes.png)
+![Goodnotes](/assets/images/goodnotes.jpg)
 #### Role: Backend Developer
 #### Software/Tools: Typescript, React, Stripe, NestJS, Payload CMS, Cursor
 
